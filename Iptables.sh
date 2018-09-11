@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# -- chb@mz.co.kr , Nov 10, 2016 -- # 
+# -- liverpools@gmail.com , Nov 10, 2016 -- # 
 # -- Set Iptables 
 # -- Env : vim sw=4, ts=4 -- # 
 # -- Comments : Sometimes Useful -- # 
@@ -95,7 +95,3 @@ $ipt -t nat -A POSTROUTING -j MASQUERADE
 
 # -- Check Iptables -- #
 # watch -n 1 "iptables -v -nL --line-numbers"
-
-
-
-# -- End of Line -- #
