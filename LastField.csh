@@ -1,6 +1,6 @@
 #!/bin/tcsh 
 
-# -- By chb@mz.co.kr -- # 
+# -- By liverpools@gmail.com -- # 
 # -- On Mar 07, 2018 -- # 
 
 foreach i (`cat dir.txt`)
