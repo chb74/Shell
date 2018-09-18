@@ -1,5 +1,5 @@
-# -- chb@mz.co.kr -- # 
-
+# -- By liverpools@gmail.com -- # 
+# -- On someday -- # 
 END=128
 
 for number in {1..128};
