@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# -- chb@mz.co.kr , Nov 10, 2016
+# -- liverpools@gmail.com , Nov 10, 2016 -- # 
 
 # -- Create a public Key in Bastion EC2 Instance -- #
 ssh-keygen -t rsa -b 2048 -v
